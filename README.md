@@ -1,6 +1,7 @@
 # Shared Memory
 
 **Inter Process Communication**
+
 A process can be of two type:
 
 1. Independent process.
